@@ -2,7 +2,7 @@ package facade;
 
 import facade.deliveryBox.DeliveryBoxFacade;
 
-public class Main {
+public class MainDeliveryBox {
 
     public static void main(String[] args) {
 
