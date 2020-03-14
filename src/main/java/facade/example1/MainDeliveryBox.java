@@ -1,6 +1,6 @@
-package facade;
+package facade.example1;
 
-import facade.deliveryBox.DeliveryBoxFacade;
+import facade.example1.deliveryBox.DeliveryBoxFacade;
 
 public class MainDeliveryBox {
 

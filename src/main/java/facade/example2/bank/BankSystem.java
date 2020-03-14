@@ -1,4 +1,4 @@
-package facade.bank;
+package facade.example2.bank;
 
 class BankSystem {
     void transferMoney() {

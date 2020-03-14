@@ -1,6 +1,6 @@
-package facade;
+package facade.example2;
 
-import facade.bank.AtmMachineFacade;
+import facade.example2.bank.AtmMachineFacade;
 
 public class MainBank {
     public static void main(String[] args) {

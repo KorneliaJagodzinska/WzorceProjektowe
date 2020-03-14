@@ -1,4 +1,4 @@
-package facade.deliveryBox;
+package facade.example1.deliveryBox;
 
  class DeliveryBoxSystem {
     void sendNotification() {
